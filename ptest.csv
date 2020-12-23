@@ -1,0 +1,7 @@
+sweating,pallor,vomiting,muscle and joint pain,neck stiffness,decreased consciousness,headache,fever,prognosis
+1,1,0,0,0,0,0,1,malaria
+0,0,1,1,0,0,0,1,dengue
+0,0,0,0,1,1,1,1,meningitis
+1,1,1,0,0,0,0,1,malaria
+0,0,1,1,0,0,1,1,dengue
+0,0,1,0,1,1,1,1,meningitis
